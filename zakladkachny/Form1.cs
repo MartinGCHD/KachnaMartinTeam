@@ -18,7 +18,8 @@ namespace zakladkachny
         List<Button> kachny = new List<Button>();
         List<Button> kLikvidaci = new List<Button>();
 
-        int zivoty = 111;
+        int zivoty = 101;
+
         int skore = 0;
 
         public Form1()
