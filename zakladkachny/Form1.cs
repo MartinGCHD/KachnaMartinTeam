@@ -21,7 +21,7 @@ namespace zakladkachny
         int zivoty = 125;
 
         int skore = 0;
-
+        int testovaciRadka = 5;
         public Form1()
         {
             InitializeComponent();
@@ -104,5 +104,6 @@ namespace zakladkachny
         {
 
         }
+
     }
 }
