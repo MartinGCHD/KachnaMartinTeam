@@ -19,6 +19,7 @@ namespace zakladkachny
         List<Button> kLikvidaci = new List<Button>();
 
         int zivoty = 125;
+        bool BillSmrdi = true;
 
         int skore = 0;
         int testovaciRadka = 5;
